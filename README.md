@@ -6,16 +6,6 @@ A SwiftUI-based iOS application that demonstrates:
 
 This README describes the project architecture, setup instructions, features, and how each requirement was met.
 
-## App Demo Video
-
-
-
----
-
-
-Uploading Swipe App Demo .mov…
-
-
 
 ---
 
