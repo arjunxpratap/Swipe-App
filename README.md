@@ -12,7 +12,10 @@ This README describes the project architecture, setup instructions, features, an
 
 ---
 
-https://github.com/user-attachments/assets/40824225-1790-4024-a010-b37ee5884dc9
+
+Uploading Swipe App Demo .mov…
+
+
 
 ---
 
